@@ -1,0 +1,1 @@
+import{d as o,o as t,f as n}from"./index-491a0d25.js";import{b as e}from"./route-block-83d24a4e.js";const r=o({__name:"index",setup(a){return(c,f)=>(t(),n("div"))}});typeof e=="function"&&e(r);export{r as default};
